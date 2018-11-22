@@ -12,7 +12,7 @@ func main() {
 
 	fmt.Println("Hello OCI8")
 
-	db, err := sql.Open("oci8", "weeradej/weeradej@ped")
+	db, err := sql.Open("oci8", "xxxxx/xxx@xx")
 	if err != nil {
 		fmt.Println(err)
 		return
